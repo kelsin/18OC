@@ -2,7 +2,8 @@
 ** Games
 *** Test 0001
     <2020-02-02 Sun>
-    [[./screenshots/2020-02-02-18OC-Test0001.png]]
+    [[./screenshots/2020-02-02-18OC-Test0001.png][Test 0001 Final Board]]
+    [[https://docs.google.com/spreadsheets/d/1sLYAD4Ddj5BxUMwOz9FFWAutOcn_ENV-C_vZN4jUQFM/edit?usp=sharing][Test 0001 Spreadsheet]]
 
     Initial capital is definitely too high. Cutting it in half. I also felt
     restricted on the map so going to remove the prebuilt Y tiles except for

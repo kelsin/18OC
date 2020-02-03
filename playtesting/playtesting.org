@@ -1,0 +1,14 @@
+* 18OC Playtesting
+** Games
+*** Test 0001
+    <2020-02-02 Sun>
+    [[./screenshots/2020-02-02-18OC-Test0001.png]]
+
+    Initial capital is definitely too high. Cutting it in half. I also felt
+    restricted on the map so going to remove the prebuilt Y tiles except for
+    Huntington beach which will become a lollypop for the next game.
+
+    Changing pars to 60, 100, 220 and 340 with PE, SP and ATSF starting at 160,
+    180 and 200 respectively.
+
+    No other changes until I play again.

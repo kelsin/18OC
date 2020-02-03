@@ -3,7 +3,6 @@
 \usepackage{tabularx}
 \usepackage{hyperref}
 \usepackage{multicol}
-\usepackage{titlepic}
 \usepackage{graphicx}
 \usepackage[letterpaper, margin=1in]{geometry}
 
@@ -17,13 +16,16 @@
 
 \setcounter{tocdepth}{2}
 
-\title{\Huge 18OC}
-\author{\Large Christopher Giroir}
-\titlepic{\includegraphics[width=\textwidth]{OC.png}}
+\title{18OC}
+\author{Christopher Giroir}
 
 \begin{document}
 
-\maketitle
+\begin{titlepage}
+  \begin{center}
+    \includegraphics[width=\textwidth]{18OC.png}
+  \end{center}
+\end{titlepage}
 
 \newpage
 \tableofcontents
@@ -90,6 +92,7 @@
 
 \newpage
 
+\thispagestyle{empty}
 \begin{multicols}{2}
     \section*{Cheat Sheet}
     \begin{tabular}{l|l|l}

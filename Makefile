@@ -8,4 +8,4 @@ open :
 	open 18OC-rules.pdf
 
 clean :
-	rm *.{pdf,toc,aux,snm,log,nav,out,vrb}
+	rm *.{toc,aux,snm,log,nav,out,vrb}

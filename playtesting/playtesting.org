@@ -14,4 +14,9 @@
     Changing pars to 60, 100, 220 and 340 with PE, SP and ATSF starting at 160,
     180 and 200 respectively.
 
+    Also goin to try all green city tiles being 3 sided and all brown being 4
+    sided. This removes the need for K labels on the map.
+
+    Everyone gets two track actions for plain tiles or one for city tiles.
+
     No other changes until I play again.

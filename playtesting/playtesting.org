@@ -34,3 +34,26 @@
     Track was ... ok. I like the two yellows, but it still felt a little slow?
     Maybe just awkward. Not changing it for now. I think I like the 3 sided
     greens.
+*** Test 0003
+    <2020-02-03 Mon>
+
+    [[https://docs.google.com/spreadsheets/d/1lJ1YzPtWap7IIXruHGSp_N_C5HANlwiokEVf469h-CY/edit?usp=sharing][Test 0003 Spreadsheet]]
+
+    Trains finally worked and I got to the merger stuff... problem is it's
+    broken. Company cycling just happens constantly and companies never get
+    enough to afford the next trains. When you reopen companies you don't get
+    enough capital to do anything.
+
+    The auto runs for the merging companies is odd and choosing which to sell
+    into is also odd. The merger into SPSF doesn't seem impactful. D trains are
+    too much in the beginning and the token game isn't playing out how I would
+    like.
+
+    Ideas?
+    * Issueing like 46 in order to buy trains with the initial issues
+    * 1817 like M&A round where companies without trains get acquired and others
+      may be sold in optionally.
+    * More companies? Make PE a player owned company? All player owned?
+
+    I wasn't good about keeping the queue of companies in order... need to work
+    on that.

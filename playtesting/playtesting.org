@@ -54,6 +54,12 @@
     * 1817 like M&A round where companies without trains get acquired and others
       may be sold in optionally.
     * More companies? Make PE a player owned company? All player owned?
+    * No minor or 20% shares, complicates things for no benefit I think. It's
+      cute having the DRR be a minor but I don't think the cute is worth
+      it. With only 4 player companies, having one be crippled by being a
+      partial cap minor is just odd.
+    * If I keep the two NPCompanies around, it might not be worth the whole
+      weird merger thing, doesn't do enough.
 
     I wasn't good about keeping the queue of companies in order... need to work
     on that.

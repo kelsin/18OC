@@ -20,3 +20,17 @@
     Everyone gets two track actions for plain tiles or one for city tiles.
 
     No other changes until I play again.
+*** Test 0002
+    <2020-02-03 Mon>
+
+    [[https://docs.google.com/spreadsheets/d/1wRCsePij6m3OavHaYITBM-0Jv5vpoWXHxHX6uMAicX4/edit?usp=sharing][Test 0002 Spreadsheet]]
+
+    Initial capital was better. Company financing was better, but trains were
+    shit. If I want the game to only have four companies, need to heavily change
+    the roster.
+
+    Don't want to change issueing rules yet until I play with better trains.
+
+    Track was ... ok. I like the two yellows, but it still felt a little slow?
+    Maybe just awkward. Not changing it for now. I think I like the 3 sided
+    greens.

@@ -50,6 +50,7 @@
     like.
 
     Ideas?
+    * Two yellows or one upgrade is probably best to help with 2 train runs
     * Issueing like 46 in order to buy trains with the initial issues
     * 1817 like M&A round where companies without trains get acquired and others
       may be sold in optionally.
